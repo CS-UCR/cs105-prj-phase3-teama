@@ -1,0 +1,455 @@
+,Unnamed: 0,height_feet,position,team_name,full_name
+0,0,6.0,G,Oklahoma City Thunder,Alex Abrines
+1,1,6.0,G,Milwaukee Bucks,Jaylen Adams
+2,2,7.0,C,Oklahoma City Thunder,Steven Adams
+3,3,6.0,C-F,Miami Heat,Bam Adebayo
+4,4,6.0,F,San Antonio Spurs,LaMarcus Aldridge
+5,5,6.0,G,Chicago Bulls,Rawle Alkins
+6,6,6.0,G,Memphis Grizzlies,Grayson Allen
+7,7,6.0,C,Brooklyn Nets,Jarrett Allen
+8,8,6.0,F,Orlando Magic,Al-Farouq Aminu
+9,9,6.0,G-F,Brooklyn Nets,Justin Anderson
+10,10,6.0,F,Memphis Grizzlies,Kyle Anderson
+11,11,6.0,F,Houston Rockets,Ryan Anderson
+12,12,6.0,F,Milwaukee Bucks,Giannis Antetokounmpo
+13,13,6.0,F,Los Angeles Lakers,Kostas Antetokounmpo
+14,14,6.0,F,Toronto Raptors,OG Anunoby
+15,15,6.0,G,Chicago Bulls,Ryan Arcidiacono
+16,16,6.0,F,Portland Trail Blazers,Trevor Ariza
+17,17,6.0,G,Orlando Magic,D.J. Augustin
+18,18,7.0,C,Phoenix Suns,Deandre Ayton
+19,19,6.0,G-F,Charlotte Hornets,Dwayne Bacon
+20,20,6.0,F,Sacramento Kings,Marvin Bagley III
+21,21,6.0,G,Houston Rockets,Wade Baldwin IV
+22,22,6.0,G,New Orleans Pelicans,Lonzo Ball
+23,23,7.0,C,Orlando Magic,Mo Bamba
+24,24,6.0,G,Dallas Mavericks,J.J. Barea
+25,25,6.0,F,Sacramento Kings,Harrison Barnes
+26,26,6.0,G,Denver Nuggets,Will Barton
+27,27,6.0,F,Denver Nuggets,Keita Bates-Diop
+28,28,6.0,F-G,Charlotte Hornets,Nicolas Batum
+29,29,6.0,G,Minnesota Timberwolves,Jerryd Bayless
+30,30,6.0,C-F,Phoenix Suns,Aron Baynes
+31,31,6.0,G,Sacramento Kings,Kent Bazemore
+32,32,6.0,G,Washington Wizards,Bradley Beal
+33,33,6.0,G,Minnesota Timberwolves,Malik Beasley
+34,34,6.0,F,LA Clippers,Michael Beasley
+35,35,6.0,G-F,San Antonio Spurs,Marco Belinelli
+36,36,6.0,F,Memphis Grizzlies,Jordan Bell
+37,37,6.0,F,Atlanta Hawks,DeAndre' Bembry
+38,38,7.0,F,Golden State Warriors,Dragan Bender
+39,39,6.0,F,Washington Wizards,Davis Bertans
+40,40,6.0,G,LA Clippers,Patrick Beverley
+41,41,6.0,C,Orlando Magic,Khem Birch
+42,42,6.0,C,Charlotte Hornets,Bismack Biyombo
+43,43,6.0,F,Sacramento Kings,Nemanja Bjelica
+44,44,6.0,G,Chicago Bulls,Antonio Blakeney
+45,45,6.0,G,Milwaukee Bucks,Eric Bledsoe
+46,46,6.0,G-F,Utah Jazz,Trevon Bluiett
+47,47,6.0,G,Sacramento Kings,Bogdan Bogdanovic
+48,48,6.0,F,Utah Jazz,Bojan Bogdanovic
+49,49,6.0,F,Phoenix Suns,Jonah Bolden
+50,50,6.0,G,Washington Wizards,Isaac Bonga
+51,51,6.0,G,Phoenix Suns,Devin Booker
+52,52,6.0,F,Toronto Raptors,Chris Boucher
+53,53,6.0,G,Los Angeles Lakers,Avery Bradley
+54,54,6.0,C,Utah Jazz,Tony Bradley
+55,55,6.0,F,Phoenix Suns,Mikal Bridges
+56,56,6.0,F,Charlotte Hornets,Miles Bridges
+57,57,6.0,G,Orlando Magic,Isaiah Briscoe
+58,58,6.0,G-F,Dallas Mavericks,Ryan Broekhoff
+59,59,6.0,G,Indiana Pacers,Malcolm Brogdon
+60,60,6.0,G-F,Memphis Grizzlies,Dillon Brooks
+61,61,6.0,F,Washington Wizards,Troy Brown Jr.
+62,62,6.0,G,Detroit Pistons,Bruce Brown
+63,63,6.0,G,Boston Celtics,Jaylen Brown
+64,64,6.0,G,Milwaukee Bucks,Sterling Brown
+65,65,6.0,G,Dallas Mavericks,Jalen Brunson
+66,66,6.0,C,Washington Wizards,Thomas Bryant
+67,67,6.0,G-F,New York Knicks,Reggie Bullock
+68,68,6.0,G,Philadelphia 76ers,Trey Burke
+69,69,6.0,G,Philadelphia 76ers,Alec Burks
+70,70,6.0,G,Oklahoma City Thunder,Deonte Burton
+71,71,6.0,G-F,Miami Heat,Jimmy Butler
+72,72,6.0,G,Detroit Pistons,Jose Calderon
+73,73,6.0,G,Los Angeles Lakers,Kentavious Caldwell-Pope
+74,74,6.0,G,Minnesota Timberwolves,Isaiah Canaan
+75,75,6.0,C,Atlanta Hawks,Clint Capela
+76,76,6.0,F,Houston Rockets,DeMarre Carroll
+77,77,6.0,F,Chicago Bulls,Wendell Carter Jr.
+78,78,6.0,G,Phoenix Suns,Jevon Carter
+79,79,6.0,F-G,Atlanta Hawks,Vince Carter
+80,80,6.0,G,Los Angeles Lakers,Alex Caruso
+81,81,7.0,C,Dallas Mavericks,Willie Cauley-Stein
+82,82,6.0,G,Portland Trail Blazers,Troy Caupain
+83,83,6.0,F,Utah Jazz,Tyler Cavanaugh
+84,84,7.0,C,Houston Rockets,Tyson Chandler
+85,85,6.0,F,Brooklyn Nets,Wilson Chandler
+86,86,6.0,G,Charlotte Hornets,Joe Chealey
+87,87,6.0,F,Golden State Warriors,Marquese Chriss
+88,88,6.0,F,Orlando Magic,Gary Clark
+89,89,6.0,G,New Orleans Pelicans,Ian Clark
+90,90,6.0,G,Utah Jazz,Jordan Clarkson
+91,91,6.0,F-C,Atlanta Hawks,John Collins
+92,92,7.0,F-C,Portland Trail Blazers,Zach Collins
+93,93,6.0,G,Indiana Pacers,Darren Collison
+94,94,6.0,G,Utah Jazz,Mike Conley
+95,95,6.0,G,Milwaukee Bucks,Pat Connaughton
+96,96,6.0,G,Los Angeles Lakers,Quinn Cook
+97,97,6.0,C,Los Angeles Lakers,DeMarcus Cousins
+98,98,6.0,F,Houston Rockets,Robert Covington
+99,99,6.0,G-F,Minnesota Timberwolves,Allen Crabbe
+100,100,6.0,F,Denver Nuggets,Torrey Craig
+101,101,6.0,G,Phoenix Suns,Jamal Crawford
+102,102,6.0,F,Miami Heat,Jae Crowder
+103,103,6.0,F,San Antonio Spurs,Dante Cunningham
+104,104,6.0,G,Dallas Mavericks,Seth Curry
+105,105,6.0,G,Golden State Warriors,Stephen Curry
+106,106,6.0,G,Denver Nuggets,Troy Daniels
+107,107,6.0,F-C,Los Angeles Lakers,Anthony Davis
+108,108,6.0,C,Utah Jazz,Ed Davis
+109,109,7.0,C,Atlanta Hawks,Dewayne Dedmon
+110,110,6.0,F,Washington Wizards,Sam Dekker
+111,111,6.0,C,LA Clippers,Angel Delgado
+112,112,6.0,G,Cleveland Cavaliers,Matthew Dellavedova
+113,113,6.0,F,Minnesota Timberwolves,Luol Deng
+114,114,6.0,G,San Antonio Spurs,DeMar DeRozan
+115,115,6.0,F,Atlanta Hawks,Marcus Derrickson
+116,116,6.0,F,Phoenix Suns,Cheick Diallo
+117,117,6.0,G,Oklahoma City Thunder,Hamidou Diallo
+118,118,6.0,C,Memphis Grizzlies,Gorgui Dieng
+119,119,6.0,G,Brooklyn Nets,Spencer Dinwiddie
+120,120,6.0,G,Milwaukee Bucks,Donte DiVincenzo
+121,121,6.0,F-G,Dallas Mavericks,Luka Doncic
+122,122,6.0,G,Memphis Grizzlies,Tyler Dorsey
+123,123,6.0,G,New York Knicks,Damyean Dotson
+124,124,6.0,G-F,Denver Nuggets,PJ Dozier
+125,125,6.0,G,Miami Heat,Goran Dragic
+126,126,6.0,C,Cleveland Cavaliers,Andre Drummond
+127,127,6.0,F,Los Angeles Lakers,Jared Dudley
+128,128,6.0,G,Chicago Bulls,Kris Dunn
+129,129,6.0,F,Brooklyn Nets,Kevin Durant
+130,130,6.0,G,Houston Rockets,Trevon Duval
+131,131,6.0,F,Houston Rockets,Vincent Edwards
+132,132,6.0,F,Brooklyn Nets,Henry Ellenson
+133,133,7.0,F-C,Philadelphia 76ers,Joel Embiid
+134,134,6.0,F,Orlando Magic,James Ennis III
+135,135,6.0,F,San Antonio Spurs,Drew Eubanks
+136,136,6.0,G,Minnesota Timberwolves,Jacob Evans
+137,137,6.0,G,Indiana Pacers,Tyreke Evans
+138,138,6.0,G,Cleveland Cavaliers,Dante Exum
+139,139,6.0,F-C,Houston Rockets,Kenneth Faried
+140,140,6.0,F-C,New Orleans Pelicans,Derrick Favors
+141,141,6.0,F-C,Chicago Bulls,Cristiano Felicio
+142,142,6.0,G,Oklahoma City Thunder,Raymond Felton
+143,143,6.0,G,Oklahoma City Thunder,Terrance Ferguson
+144,144,6.0,G,Sacramento Kings,Yogi Ferrell
+145,145,6.0,F,Dallas Mavericks,Dorian Finney-Smith
+146,146,6.0,G,San Antonio Spurs,Bryn Forbes
+147,147,6.0,G-F,Orlando Magic,Evan Fournier
+148,148,6.0,G,Sacramento Kings,De'Aaron Fox
+149,149,6.0,G-F,Orlando Magic,Melvin Frazier Jr.
+150,150,6.0,G,Detroit Pistons,Tim Frazier
+151,151,7.0,F-C,Cleveland Cavaliers,Channing Frye
+152,152,6.0,G,Orlando Magic,Markelle Fultz
+153,153,6.0,F,Portland Trail Blazers,Wenyen Gabriel
+154,154,6.0,F,Oklahoma City Thunder,Danilo Gallinari
+155,155,6.0,G,Detroit Pistons,Langston Galloway
+156,156,7.0,C,Toronto Raptors,Marc Gasol
+157,157,7.0,C-F,Portland Trail Blazers,Pau Gasol
+158,158,6.0,F,San Antonio Spurs,Rudy Gay
+159,159,6.0,F,LA Clippers,Paul George
+160,160,6.0,F,New York Knicks,Taj Gibson
+161,161,6.0,F-C,Sacramento Kings,Harry Giles III
+162,162,6.0,G,Oklahoma City Thunder,Shai Gilgeous-Alexander
+163,163,7.0,C,Utah Jazz,Rudy Gobert
+164,164,6.0,F,Orlando Magic,Aaron Gordon
+165,165,6.0,G,Houston Rockets,Eric Gordon
+166,166,6.0,G,Charlotte Hornets,Devonte' Graham
+167,167,6.0,F,Atlanta Hawks,Treveon Graham
+168,168,6.0,F,Denver Nuggets,Jerami Grant
+169,169,6.0,G,Orlando Magic,Jerian Grant
+170,170,6.0,G-F,Los Angeles Lakers,Danny Green
+171,171,6.0,F,Golden State Warriors,Draymond Green
+172,172,6.0,G-F,Denver Nuggets,Gerald Green
+173,173,6.0,F,LA Clippers,JaMychal Green
+174,174,6.0,F,Houston Rockets,Jeff Green
+175,175,6.0,F,Detroit Pistons,Blake Griffin
+176,176,6.0,G,Dallas Mavericks,Tim Hardaway Jr.
+177,177,6.0,G,Houston Rockets,James Harden
+178,178,6.0,F,New York Knicks,Maurice Harkless
+179,179,6.0,F-C,LA Clippers,Montrezl Harrell
+180,180,6.0,G,Dallas Mavericks,Devin Harris
+181,181,6.0,G,Denver Nuggets,Gary Harris
+182,182,6.0,F-G,Brooklyn Nets,Joe Harris
+183,183,6.0,G,Chicago Bulls,Shaquille Harrison
+184,184,6.0,F,Philadelphia 76ers,Tobias Harris
+185,185,7.0,F-C,Houston Rockets,Isaiah Hartenstein
+186,186,6.0,G,New Orleans Pelicans,Josh Hart
+187,187,6.0,F,Miami Heat,Udonis Haslem
+188,188,6.0,F,Boston Celtics,Gordon Hayward
+189,189,6.0,F,Detroit Pistons,John Henson
+190,190,6.0,F,Minnesota Timberwolves,Juancho Hernangomez
+191,191,6.0,C,Charlotte Hornets,Willy Hernangomez
+192,192,6.0,F,Portland Trail Blazers,Mario Hezonja
+193,193,6.0,F,New York Knicks,Isaiah Hicks
+194,194,6.0,G,Sacramento Kings,Buddy Hield
+195,195,6.0,G,Milwaukee Bucks,George Hill
+196,196,6.0,F,Miami Heat,Solomon Hill
+197,197,6.0,G,Indiana Pacers,Aaron Holiday
+198,198,6.0,G,New Orleans Pelicans,Jrue Holiday
+199,199,6.0,F-G,Indiana Pacers,Justin Holiday
+200,200,6.0,F,Toronto Raptors,Rondae Hollis-Jefferson
+201,201,6.0,F-C,Sacramento Kings,Richaun Holmes
+202,202,6.0,G,Portland Trail Blazers,Rodney Hood
+203,203,6.0,C-F,Philadelphia 76ers,Al Horford
+204,204,6.0,C,Los Angeles Lakers,Dwight Howard
+205,205,6.0,G,Atlanta Hawks,Kevin Huerter
+206,206,6.0,F,Chicago Bulls,Chandler Hutchison
+207,207,6.0,F-C,Toronto Raptors,Serge Ibaka
+208,208,6.0,G-F,Miami Heat,Andre Iguodala
+209,209,6.0,F,Milwaukee Bucks,Ersan Ilyasova
+210,210,6.0,F,Utah Jazz,Joe Ingles
+211,211,6.0,F,New Orleans Pelicans,Brandon Ingram
+212,212,6.0,G,Brooklyn Nets,Kyrie Irving
+213,213,6.0,F,Orlando Magic,Jonathan Isaac
+214,214,6.0,F,Orlando Magic,Wes Iwundu
+215,215,6.0,F-C,Memphis Grizzlies,Jaren Jackson Jr.
+216,216,6.0,G,New Orleans Pelicans,Frank Jackson
+217,217,6.0,F,Memphis Grizzlies,Josh Jackson
+218,218,6.0,F,Dallas Mavericks,Justin Jackson
+219,219,6.0,G,LA Clippers,Reggie Jackson
+220,220,6.0,F,Los Angeles Lakers,LeBron James
+221,221,6.0,F,Orlando Magic,Amile Jefferson
+222,222,6.0,F,Golden State Warriors,Jonas Jerebko
+223,223,6.0,F,Indiana Pacers,Alize Johnson
+224,224,6.0,C-F,Philadelphia 76ers,Amir Johnson
+225,225,6.0,F,Minnesota Timberwolves,James Johnson
+226,226,6.0,F,Toronto Raptors,Stanley Johnson
+227,227,6.0,G,Phoenix Suns,Tyler Johnson
+228,228,6.0,F-G,Washington Wizards,Wesley Johnson
+229,229,7.0,C,Denver Nuggets,Nikola Jokic
+230,230,6.0,F-G,Miami Heat,Derrick Jones Jr.
+231,231,7.0,C,Atlanta Hawks,Damian Jones
+232,232,6.0,G,Memphis Grizzlies,Tyus Jones
+233,233,6.0,C,Brooklyn Nets,DeAndre Jordan
+234,234,6.0,G,Sacramento Kings,Cory Joseph
+235,235,7.0,F-C,Phoenix Suns,Frank Kaminsky
+236,236,6.0,G,Detroit Pistons,Luke Kennard
+237,237,6.0,F,Dallas Mavericks,Michael Kidd-Gilchrist
+238,238,6.0,F,Phoenix Suns,George King
+239,239,6.0,F,Dallas Mavericks,Maxi Kleber
+240,240,6.0,G,Detroit Pistons,Brandon Knight
+241,241,6.0,F,New York Knicks,Kevin Knox
+242,242,6.0,G-F,Philadelphia 76ers,Furkan Korkmaz
+243,243,7.0,F-C,Chicago Bulls,Luke Kornet
+244,244,6.0,G-F,Milwaukee Bucks,Kyle Korver
+245,245,7.0,C,Sacramento Kings,Kosta Koufos
+246,246,6.0,F,Brooklyn Nets,Rodions Kurucs
+247,247,6.0,F,Los Angeles Lakers,Kyle Kuzma
+248,248,6.0,F,Atlanta Hawks,Skal Labissiere
+249,249,6.0,G,Indiana Pacers,Jeremy Lamb
+250,250,6.0,G,Chicago Bulls,Zach LaVine
+251,251,6.0,F,Minnesota Timberwolves,Jake Layman
+252,252,6.0,F,Indiana Pacers,TJ Leaf
+253,253,6.0,G,Dallas Mavericks,Courtney Lee
+254,254,6.0,G,Golden State Warriors,Damion Lee
+255,255,7.0,C,Sacramento Kings,Alex Len
+256,256,6.0,F,LA Clippers,Kawhi Leonard
+257,257,7.0,F-C,Miami Heat,Meyers Leonard
+258,258,6.0,F,Detroit Pistons,Jon Leuer
+259,259,6.0,G,Brooklyn Nets,Caris LeVert
+260,260,6.0,G,Portland Trail Blazers,Damian Lillard
+261,261,6.0,G,Toronto Raptors,Jeremy Lin
+262,262,6.0,G,Golden State Warriors,Shaun Livingston
+263,263,6.0,F,Golden State Warriors,Kevon Looney
+264,264,7.0,C,Milwaukee Bucks,Brook Lopez
+265,265,7.0,C,Milwaukee Bucks,Robin Lopez
+266,266,6.0,F-C,Cleveland Cavaliers,Kevin Love
+267,267,6.0,G,Toronto Raptors,Kyle Lowry
+268,268,6.0,G,Toronto Raptors,Jordan Loyd
+269,269,6.0,G-F,Brooklyn Nets,Timothe Luwawu-Cabarrot
+270,270,6.0,F,Sacramento Kings,Tyler Lydon
+271,271,6.0,F,San Antonio Spurs,Trey Lyles
+272,272,6.0,G,Miami Heat,Daryl Macon
+273,273,6.0,G,Cleveland Cavaliers,J.P. Macura
+274,274,6.0,C,Washington Wizards,Ian Mahinmi
+275,275,7.0,F,Detroit Pistons,Thon Maker
+276,276,7.0,C,Dallas Mavericks,Boban Marjanovic
+277,277,7.0,F,Chicago Bulls,Lauri Markkanen
+278,278,6.0,F,Cleveland Cavaliers,Jarell Martin
+279,279,5.0,G,Milwaukee Bucks,Frank Mason
+280,280,6.0,F,Boston Celtics,Yante Maten
+281,281,6.0,F,LA Clippers,Luc Mbah a Moute
+282,282,6.0,G,Portland Trail Blazers,CJ McCollum
+283,283,6.0,G,Indiana Pacers,T.J. McConnell
+284,284,6.0,F,Indiana Pacers,Doug McDermott
+285,285,7.0,C,Los Angeles Lakers,JaVale McGee
+286,286,6.0,F-G,LA Clippers,Rodney McGruder
+287,287,6.0,F,Cleveland Cavaliers,Alfonzo McKinnie
+288,288,6.0,G,Detroit Pistons,Jordan McRae
+289,289,6.0,G,Memphis Grizzlies,De'Anthony Melton
+290,290,6.0,F,San Antonio Spurs,Chimezie Metu
+291,291,6.0,F,Milwaukee Bucks,Khris Middleton
+292,292,6.0,F-G,Washington Wizards,CJ Miles
+293,293,6.0,F,New Orleans Pelicans,Darius Miller
+294,294,6.0,F,Denver Nuggets,Paul Millsap
+295,295,6.0,G,San Antonio Spurs,Patty Mills
+296,296,6.0,G,Philadelphia 76ers,Shake Milton
+297,297,6.0,F,Milwaukee Bucks,Nikola Mirotic
+298,298,6.0,G,Utah Jazz,Donovan Mitchell
+299,299,6.0,G,Indiana Pacers,Naz Mitrou-Long
+300,300,6.0,G,Charlotte Hornets,Malik Monk
+301,301,6.0,G,New Orleans Pelicans,E'Twaun Moore
+302,302,6.0,G,Milwaukee Bucks,Jaylen Morris
+303,303,6.0,F,LA Clippers,Marcus Morris
+304,304,6.0,G,Denver Nuggets,Monte Morris
+305,305,6.0,F,LA Clippers,Johnathan Motley
+306,306,7.0,C,Orlando Magic,Timofey Mozgov
+307,307,6.0,G,Utah Jazz,Emmanuel Mudiay
+308,308,6.0,G,San Antonio Spurs,Dejounte Murray
+309,309,6.0,G,Denver Nuggets,Jamal Murray
+310,310,6.0,G-F,Brooklyn Nets,Dzanan Musa
+311,311,6.0,F-C,Oklahoma City Thunder,Mike Muscala
+312,312,6.0,G,Detroit Pistons,Svi Mykhailiuk
+313,313,6.0,F,Oklahoma City Thunder,Abdel Nader
+314,314,6.0,F,Cleveland Cavaliers,Larry Nance Jr.
+315,315,6.0,G,Washington Wizards,Shabazz Napier
+316,316,6.0,C-F,Atlanta Hawks,
+317,317,6.0,G,Philadelphia 76ers,Raul Neto
+318,318,6.0,F,Utah Jazz,Georges Niang
+319,319,6.0,F-C,Oklahoma City Thunder,Nerlens Noel
+320,320,7.0,F,Dallas Mavericks,Dirk Nowitzki
+321,321,6.0,G,New York Knicks,Frank Ntilikina
+322,322,7.0,C,Portland Trail Blazers,Jusuf Nurkic
+323,323,6.0,G,Brooklyn Nets,David Nwaba
+324,324,6.0,F,Utah Jazz,Royce O'Neale
+325,325,6.0,C,Philadelphia 76ers,Kyle O'Quinn
+326,326,6.0,F,Boston Celtics,Semi Ojeleye
+327,327,6.0,C,New Orleans Pelicans,Jahlil Okafor
+328,328,6.0,G,Phoenix Suns,Elie Okobo
+329,329,6.0,G,Minnesota Timberwolves,Josh Okogie
+330,330,6.0,G,Indiana Pacers,Victor Oladipo
+331,331,7.0,F,Miami Heat,Kelly Olynyk
+332,332,6.0,F,Cleveland Cavaliers,Cedi Osman
+333,333,6.0,F,Phoenix Suns,Kelly Oubre Jr.
+334,334,6.0,C,Detroit Pistons,Zaza Pachulia
+335,335,6.0,F,Sacramento Kings,Jabari Parker
+336,336,6.0,G,Charlotte Hornets,Tony Parker
+337,337,6.0,F,Atlanta Hawks,Chandler Parsons
+338,338,6.0,F,LA Clippers,Patrick Patterson
+339,339,7.0,C,Dallas Mavericks,Justin Patton
+340,340,6.0,G,Oklahoma City Thunder,Chris Paul
+341,341,6.0,G,New York Knicks,Elfrid Payton
+342,342,6.0,G-F,Brooklyn Nets,Theo Pinson
+343,343,6.0,F-C,Denver Nuggets,Mason Plumlee
+344,344,6.0,C,Memphis Grizzlies,Miles Plumlee
+345,345,7.0,C,San Antonio Spurs,Jakob Poeltl
+346,346,6.0,F,San Antonio Spurs,Quincy Pondexter
+347,347,6.0,F,Denver Nuggets,Michael Porter Jr.
+348,348,6.0,F,Chicago Bulls,Otto Porter Jr.
+349,349,6.0,F,New York Knicks,Bobby Portis
+350,350,7.0,F-C,Dallas Mavericks,Kristaps Porzingis
+351,351,6.0,F-C,Dallas Mavericks,Dwight Powell
+352,352,6.0,F-G,Toronto Raptors,Norman Powell
+353,353,6.0,F,Atlanta Hawks,Alex Poythress
+354,354,6.0,F,Brooklyn Nets,Taurean Prince
+355,355,6.0,F,New York Knicks,Ivan Rabb
+356,356,6.0,G,Golden State Warriors,Chasson Randle
+357,357,6.0,F,New York Knicks,Julius Randle
+358,358,6.0,G,New Orleans Pelicans,JJ Redick
+359,359,6.0,G,Miami Heat,Davon Reed
+360,360,6.0,G-F,Philadelphia 76ers,Josh Richardson
+361,361,6.0,G,Houston Rockets,Austin Rivers
+362,362,6.0,G-F,Oklahoma City Thunder,Andre Roberson
+363,363,6.0,G-F,Philadelphia 76ers,Glenn Robinson III
+364,364,6.0,F,Toronto Raptors,Devin Robinson
+365,365,6.0,F,Miami Heat,Duncan Robinson
+366,366,6.0,G,Washington Wizards,Jerome Robinson
+367,367,7.0,C,New York Knicks,Mitchell Robinson
+368,368,6.0,G,Los Angeles Lakers,Rajon Rondo
+369,369,6.0,G,Detroit Pistons,Derrick Rose
+370,370,6.0,G-F,Orlando Magic,Terrence Ross
+371,371,6.0,G,Charlotte Hornets,Terry Rozier
+372,372,6.0,G,Phoenix Suns,Ricky Rubio
+373,373,6.0,G,Minnesota Timberwolves,D'Angelo Russell
+374,374,6.0,F,Indiana Pacers,Domantas Sabonis
+375,375,6.0,F,Phoenix Suns,Dario Saric
+376,376,6.0,G-F,Chicago Bulls,Tomas Satoransky
+377,377,6.0,G,Oklahoma City Thunder,Dennis Schroder
+378,378,6.0,F,Philadelphia 76ers,Mike Scott
+379,379,6.0,F,Houston Rockets,Thabo Sefolosha
+380,380,6.0,G-F,Chicago Bulls,Wayne Selden
+381,381,6.0,G,Cleveland Cavaliers,Collin Sexton
+382,382,6.0,G,LA Clippers,Landry Shamet
+383,383,6.0,G,Brooklyn Nets,Iman Shumpert
+384,384,6.0,F,Toronto Raptors,Pascal Siakam
+385,385,6.0,G-F,Philadelphia 76ers,Ben Simmons
+386,386,6.0,F,Philadelphia 76ers,Jonathon Simmons
+387,387,6.0,G,Portland Trail Blazers,Anfernee Simons
+388,388,6.0,G,Boston Celtics,Marcus Smart
+389,389,6.0,G,New York Knicks,Dennis Smith Jr.
+390,390,6.0,G,Washington Wizards,Ish Smith
+391,391,7.0,F-C,New Orleans Pelicans,Jason Smith
+392,392,6.0,G-F,Cleveland Cavaliers,JR Smith
+393,393,6.0,G,Philadelphia 76ers,Zhaire Smith
+394,394,6.0,G,Detroit Pistons,Tony Snell
+395,395,6.0,F,Minnesota Timberwolves,Omari Spellman
+396,396,6.0,G,Cleveland Cavaliers,Nik Stauskas
+397,397,6.0,G,Los Angeles Lakers,Lance Stephenson
+398,398,6.0,G,Indiana Pacers,Edmond Sumner
+399,399,6.0,F,Portland Trail Blazers,Caleb Swanigan
+400,400,6.0,F,Boston Celtics,Jayson Tatum
+401,401,6.0,G,Atlanta Hawks,Jeff Teague
+402,402,6.0,G-F,Brooklyn Nets,Garrett Temple
+403,403,6.0,G,Minnesota Timberwolves,Jared Terrell
+404,404,6.0,F,Boston Celtics,Daniel Theis
+405,405,5.0,G,LA Clippers,Isaiah Thomas
+406,406,6.0,G,Detroit Pistons,Khyri Thomas
+407,407,6.0,F,Brooklyn Nets,Lance Thomas
+408,408,6.0,G,Golden State Warriors,Klay Thompson
+409,409,6.0,C-F,Cleveland Cavaliers,Tristan Thompson
+410,410,6.0,G,Cleveland Cavaliers,Sindarius Thornwell
+411,411,6.0,F,Memphis Grizzlies,Anthony Tolliver
+412,412,7.0,C,Minnesota Timberwolves,Karl-Anthony Towns
+413,413,6.0,G,New York Knicks,Allonzo Trier
+414,414,6.0,F,Houston Rockets,PJ Tucker
+415,415,6.0,G-F,Minnesota Timberwolves,Evan Turner
+416,416,6.0,C-F,Indiana Pacers,Myles Turner
+417,417,6.0,C-F,Utah Jazz,Ekpe Udoh
+418,418,7.0,C,Memphis Grizzlies,Jonas Valanciunas
+419,419,6.0,G,Chicago Bulls,Denzel Valentine
+420,420,6.0,F,Minnesota Timberwolves,Jarred Vanderbilt
+421,421,6.0,G,Toronto Raptors,Fred VanVleet
+422,422,6.0,F,Denver Nuggets,Noah Vonleh
+423,423,7.0,C,Orlando Magic,Nikola Vucevic
+424,424,6.0,G,Miami Heat,Dwyane Wade
+425,425,6.0,C,Washington Wizards,Moritz Wagner
+426,426,6.0,G,Los Angeles Lakers,Dion Waiters
+427,427,6.0,G,San Antonio Spurs,Lonnie Walker IV
+428,428,6.0,G,Boston Celtics,Kemba Walker
+429,429,6.0,G,Atlanta Hawks,Tyrone Wallace
+430,430,6.0,G,Washington Wizards,John Wall
+431,431,6.0,G,Boston Celtics,Brad Wanamaker
+432,432,6.0,F,Indiana Pacers,T.J. Warren
+433,433,6.0,G,Memphis Grizzlies,Yuta Watanabe
+434,434,7.0,C,Charlotte Hornets,Thomas Welsh
+435,435,6.0,G,Houston Rockets,Russell Westbrook
+436,436,6.0,G,San Antonio Spurs,Derrick White
+437,437,7.0,C,Portland Trail Blazers,Hassan Whiteside
+438,438,6.0,F-G,Golden State Warriors,Andrew Wiggins
+439,439,6.0,C-F,Boston Celtics,Robert Williams III
+440,440,6.0,F-C,Brooklyn Nets,Alan Williams
+441,441,6.0,G,Brooklyn Nets,C.J. Williams
+442,442,6.0,F,Washington Wizards,Johnathan Williams
+443,443,6.0,G-F,New Orleans Pelicans,Kenrich Williams
+444,444,6.0,G,LA Clippers,Lou Williams
+445,445,6.0,F,Milwaukee Bucks,Marvin Williams
+446,446,6.0,F,Sacramento Kings,Troy Williams
+447,447,6.0,F,Milwaukee Bucks,D.J. Wilson
+448,448,6.0,F,Memphis Grizzlies,Justise Winslow
+449,449,6.0,F,Detroit Pistons,Christian Wood
+450,450,6.0,G,Dallas Mavericks,Delon Wright
+451,451,6.0,F,Boston Celtics,Guerschon Yabusele
+452,452,6.0,F,Chicago Bulls,Thaddeus Young
+453,453,6.0,G,Atlanta Hawks,Trae Young

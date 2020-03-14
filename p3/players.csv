@@ -1,0 +1,455 @@
+,height_feet,position,first_name,last_name,team_name
+0,6.0,G,Alex,Abrines,Oklahoma City Thunder
+1,6.0,G,Jaylen,Adams,Milwaukee Bucks
+2,7.0,C,Steven,Adams,Oklahoma City Thunder
+3,6.0,C-F,Bam,Adebayo,Miami Heat
+4,6.0,F,LaMarcus,Aldridge,San Antonio Spurs
+5,6.0,G,Rawle,Alkins,Chicago Bulls
+6,6.0,G,Grayson,Allen,Memphis Grizzlies
+7,6.0,C,Jarrett,Allen,Brooklyn Nets
+8,6.0,F,Al-Farouq,Aminu,Orlando Magic
+9,6.0,G-F,Justin,Anderson,Brooklyn Nets
+10,6.0,F,Kyle,Anderson,Memphis Grizzlies
+11,6.0,F,Ryan,Anderson,Houston Rockets
+12,6.0,F,Giannis,Antetokounmpo,Milwaukee Bucks
+13,6.0,F,Kostas,Antetokounmpo,Los Angeles Lakers
+14,6.0,F,OG,Anunoby,Toronto Raptors
+15,6.0,G,Ryan,Arcidiacono,Chicago Bulls
+16,6.0,F,Trevor,Ariza,Portland Trail Blazers
+17,6.0,G,D.J.,Augustin,Orlando Magic
+18,7.0,C,Deandre,Ayton,Phoenix Suns
+19,6.0,G-F,Dwayne,Bacon,Charlotte Hornets
+20,6.0,F,Marvin,Bagley III,Sacramento Kings
+21,6.0,G,Wade,Baldwin IV,Houston Rockets
+22,6.0,G,Lonzo,Ball,New Orleans Pelicans
+23,7.0,C,Mo,Bamba,Orlando Magic
+24,6.0,G,J.J.,Barea,Dallas Mavericks
+25,6.0,F,Harrison,Barnes,Sacramento Kings
+26,6.0,G,Will,Barton,Denver Nuggets
+27,6.0,F,Keita,Bates-Diop,Denver Nuggets
+28,6.0,F-G,Nicolas,Batum,Charlotte Hornets
+29,6.0,G,Jerryd,Bayless,Minnesota Timberwolves
+30,6.0,C-F,Aron,Baynes,Phoenix Suns
+31,6.0,G,Kent,Bazemore,Sacramento Kings
+32,6.0,G,Bradley,Beal,Washington Wizards
+33,6.0,G,Malik,Beasley,Minnesota Timberwolves
+34,6.0,F,Michael,Beasley,LA Clippers
+35,6.0,G-F,Marco,Belinelli,San Antonio Spurs
+36,6.0,F,Jordan,Bell,Memphis Grizzlies
+37,6.0,F,DeAndre',Bembry,Atlanta Hawks
+38,7.0,F,Dragan,Bender,Golden State Warriors
+39,6.0,F,Davis,Bertans,Washington Wizards
+40,6.0,G,Patrick,Beverley,LA Clippers
+41,6.0,C,Khem,Birch,Orlando Magic
+42,6.0,C,Bismack,Biyombo,Charlotte Hornets
+43,6.0,F,Nemanja,Bjelica,Sacramento Kings
+44,6.0,G,Antonio,Blakeney,Chicago Bulls
+45,6.0,G,Eric,Bledsoe,Milwaukee Bucks
+46,6.0,G-F,Trevon,Bluiett,Utah Jazz
+47,6.0,G,Bogdan,Bogdanovic,Sacramento Kings
+48,6.0,F,Bojan,Bogdanovic,Utah Jazz
+49,6.0,F,Jonah,Bolden,Phoenix Suns
+50,6.0,G,Isaac,Bonga,Washington Wizards
+51,6.0,G,Devin,Booker,Phoenix Suns
+52,6.0,F,Chris,Boucher,Toronto Raptors
+53,6.0,G,Avery,Bradley,Los Angeles Lakers
+54,6.0,C,Tony,Bradley,Utah Jazz
+55,6.0,F,Mikal,Bridges,Phoenix Suns
+56,6.0,F,Miles,Bridges,Charlotte Hornets
+57,6.0,G,Isaiah,Briscoe,Orlando Magic
+58,6.0,G-F,Ryan,Broekhoff,Dallas Mavericks
+59,6.0,G,Malcolm,Brogdon,Indiana Pacers
+60,6.0,G-F,Dillon,Brooks,Memphis Grizzlies
+61,6.0,F,Troy,Brown Jr.,Washington Wizards
+62,6.0,G,Bruce,Brown,Detroit Pistons
+63,6.0,G,Jaylen,Brown,Boston Celtics
+64,6.0,G,Sterling,Brown,Milwaukee Bucks
+65,6.0,G,Jalen,Brunson,Dallas Mavericks
+66,6.0,C,Thomas,Bryant,Washington Wizards
+67,6.0,G-F,Reggie,Bullock,New York Knicks
+68,6.0,G,Trey,Burke,Philadelphia 76ers
+69,6.0,G,Alec,Burks,Philadelphia 76ers
+70,6.0,G,Deonte,Burton,Oklahoma City Thunder
+71,6.0,G-F,Jimmy,Butler,Miami Heat
+72,6.0,G,Jose,Calderon,Detroit Pistons
+73,6.0,G,Kentavious,Caldwell-Pope,Los Angeles Lakers
+74,6.0,G,Isaiah,Canaan,Minnesota Timberwolves
+75,6.0,C,Clint,Capela,Atlanta Hawks
+76,6.0,F,DeMarre,Carroll,Houston Rockets
+77,6.0,F,Wendell,Carter Jr.,Chicago Bulls
+78,6.0,G,Jevon,Carter,Phoenix Suns
+79,6.0,F-G,Vince,Carter,Atlanta Hawks
+80,6.0,G,Alex,Caruso,Los Angeles Lakers
+81,7.0,C,Willie,Cauley-Stein,Dallas Mavericks
+82,6.0,G,Troy,Caupain,Portland Trail Blazers
+83,6.0,F,Tyler,Cavanaugh,Utah Jazz
+84,7.0,C,Tyson,Chandler,Houston Rockets
+85,6.0,F,Wilson,Chandler,Brooklyn Nets
+86,6.0,G,Joe,Chealey,Charlotte Hornets
+87,6.0,F,Marquese,Chriss,Golden State Warriors
+88,6.0,F,Gary,Clark,Orlando Magic
+89,6.0,G,Ian,Clark,New Orleans Pelicans
+90,6.0,G,Jordan,Clarkson,Utah Jazz
+91,6.0,F-C,John,Collins,Atlanta Hawks
+92,7.0,F-C,Zach,Collins,Portland Trail Blazers
+93,6.0,G,Darren,Collison,Indiana Pacers
+94,6.0,G,Mike,Conley,Utah Jazz
+95,6.0,G,Pat,Connaughton,Milwaukee Bucks
+96,6.0,G,Quinn,Cook,Los Angeles Lakers
+97,6.0,C,DeMarcus,Cousins,Los Angeles Lakers
+98,6.0,F,Robert,Covington,Houston Rockets
+99,6.0,G-F,Allen,Crabbe,Minnesota Timberwolves
+100,6.0,F,Torrey,Craig,Denver Nuggets
+101,6.0,G,Jamal,Crawford,Phoenix Suns
+102,6.0,F,Jae,Crowder,Miami Heat
+103,6.0,F,Dante,Cunningham,San Antonio Spurs
+104,6.0,G,Seth,Curry,Dallas Mavericks
+105,6.0,G,Stephen,Curry,Golden State Warriors
+106,6.0,G,Troy,Daniels,Denver Nuggets
+107,6.0,F-C,Anthony,Davis,Los Angeles Lakers
+108,6.0,C,Ed,Davis,Utah Jazz
+109,7.0,C,Dewayne,Dedmon,Atlanta Hawks
+110,6.0,F,Sam,Dekker,Washington Wizards
+111,6.0,C,Angel,Delgado,LA Clippers
+112,6.0,G,Matthew,Dellavedova,Cleveland Cavaliers
+113,6.0,F,Luol,Deng,Minnesota Timberwolves
+114,6.0,G,DeMar,DeRozan,San Antonio Spurs
+115,6.0,F,Marcus,Derrickson,Atlanta Hawks
+116,6.0,F,Cheick,Diallo,Phoenix Suns
+117,6.0,G,Hamidou,Diallo,Oklahoma City Thunder
+118,6.0,C,Gorgui,Dieng,Memphis Grizzlies
+119,6.0,G,Spencer,Dinwiddie,Brooklyn Nets
+120,6.0,G,Donte,DiVincenzo,Milwaukee Bucks
+121,6.0,F-G,Luka,Doncic,Dallas Mavericks
+122,6.0,G,Tyler,Dorsey,Memphis Grizzlies
+123,6.0,G,Damyean,Dotson,New York Knicks
+124,6.0,G-F,PJ,Dozier,Denver Nuggets
+125,6.0,G,Goran,Dragic,Miami Heat
+126,6.0,C,Andre,Drummond,Cleveland Cavaliers
+127,6.0,F,Jared,Dudley,Los Angeles Lakers
+128,6.0,G,Kris,Dunn,Chicago Bulls
+129,6.0,F,Kevin,Durant,Brooklyn Nets
+130,6.0,G,Trevon,Duval,Houston Rockets
+131,6.0,F,Vincent,Edwards,Houston Rockets
+132,6.0,F,Henry,Ellenson,Brooklyn Nets
+133,7.0,F-C,Joel,Embiid,Philadelphia 76ers
+134,6.0,F,James,Ennis III,Orlando Magic
+135,6.0,F,Drew,Eubanks,San Antonio Spurs
+136,6.0,G,Jacob,Evans,Minnesota Timberwolves
+137,6.0,G,Tyreke,Evans,Indiana Pacers
+138,6.0,G,Dante,Exum,Cleveland Cavaliers
+139,6.0,F-C,Kenneth,Faried,Houston Rockets
+140,6.0,F-C,Derrick,Favors,New Orleans Pelicans
+141,6.0,F-C,Cristiano,Felicio,Chicago Bulls
+142,6.0,G,Raymond,Felton,Oklahoma City Thunder
+143,6.0,G,Terrance,Ferguson,Oklahoma City Thunder
+144,6.0,G,Yogi,Ferrell,Sacramento Kings
+145,6.0,F,Dorian,Finney-Smith,Dallas Mavericks
+146,6.0,G,Bryn,Forbes,San Antonio Spurs
+147,6.0,G-F,Evan,Fournier,Orlando Magic
+148,6.0,G,De'Aaron,Fox,Sacramento Kings
+149,6.0,G-F,Melvin,Frazier Jr.,Orlando Magic
+150,6.0,G,Tim,Frazier,Detroit Pistons
+151,7.0,F-C,Channing,Frye,Cleveland Cavaliers
+152,6.0,G,Markelle,Fultz,Orlando Magic
+153,6.0,F,Wenyen,Gabriel,Portland Trail Blazers
+154,6.0,F,Danilo,Gallinari,Oklahoma City Thunder
+155,6.0,G,Langston,Galloway,Detroit Pistons
+156,7.0,C,Marc,Gasol,Toronto Raptors
+157,7.0,C-F,Pau,Gasol,Portland Trail Blazers
+158,6.0,F,Rudy,Gay,San Antonio Spurs
+159,6.0,F,Paul,George,LA Clippers
+160,6.0,F,Taj,Gibson,New York Knicks
+161,6.0,F-C,Harry,Giles III,Sacramento Kings
+162,6.0,G,Shai,Gilgeous-Alexander,Oklahoma City Thunder
+163,7.0,C,Rudy,Gobert,Utah Jazz
+164,6.0,F,Aaron,Gordon,Orlando Magic
+165,6.0,G,Eric,Gordon,Houston Rockets
+166,6.0,G,Devonte',Graham,Charlotte Hornets
+167,6.0,F,Treveon,Graham,Atlanta Hawks
+168,6.0,F,Jerami,Grant,Denver Nuggets
+169,6.0,G,Jerian,Grant,Orlando Magic
+170,6.0,G-F,Danny,Green,Los Angeles Lakers
+171,6.0,F,Draymond,Green,Golden State Warriors
+172,6.0,G-F,Gerald,Green,Denver Nuggets
+173,6.0,F,JaMychal,Green,LA Clippers
+174,6.0,F,Jeff,Green,Houston Rockets
+175,6.0,F,Blake,Griffin,Detroit Pistons
+176,6.0,G,Tim,Hardaway Jr.,Dallas Mavericks
+177,6.0,G,James,Harden,Houston Rockets
+178,6.0,F,Maurice,Harkless,New York Knicks
+179,6.0,F-C,Montrezl,Harrell,LA Clippers
+180,6.0,G,Devin,Harris,Dallas Mavericks
+181,6.0,G,Gary,Harris,Denver Nuggets
+182,6.0,F-G,Joe,Harris,Brooklyn Nets
+183,6.0,G,Shaquille,Harrison,Chicago Bulls
+184,6.0,F,Tobias,Harris,Philadelphia 76ers
+185,7.0,F-C,Isaiah,Hartenstein,Houston Rockets
+186,6.0,G,Josh,Hart,New Orleans Pelicans
+187,6.0,F,Udonis,Haslem,Miami Heat
+188,6.0,F,Gordon,Hayward,Boston Celtics
+189,6.0,F,John,Henson,Detroit Pistons
+190,6.0,F,Juancho,Hernangomez,Minnesota Timberwolves
+191,6.0,C,Willy,Hernangomez,Charlotte Hornets
+192,6.0,F,Mario,Hezonja,Portland Trail Blazers
+193,6.0,F,Isaiah,Hicks,New York Knicks
+194,6.0,G,Buddy,Hield,Sacramento Kings
+195,6.0,G,George,Hill,Milwaukee Bucks
+196,6.0,F,Solomon,Hill,Miami Heat
+197,6.0,G,Aaron,Holiday,Indiana Pacers
+198,6.0,G,Jrue,Holiday,New Orleans Pelicans
+199,6.0,F-G,Justin,Holiday,Indiana Pacers
+200,6.0,F,Rondae,Hollis-Jefferson,Toronto Raptors
+201,6.0,F-C,Richaun,Holmes,Sacramento Kings
+202,6.0,G,Rodney,Hood,Portland Trail Blazers
+203,6.0,C-F,Al,Horford,Philadelphia 76ers
+204,6.0,C,Dwight,Howard,Los Angeles Lakers
+205,6.0,G,Kevin,Huerter,Atlanta Hawks
+206,6.0,F,Chandler,Hutchison,Chicago Bulls
+207,6.0,F-C,Serge,Ibaka,Toronto Raptors
+208,6.0,G-F,Andre,Iguodala,Miami Heat
+209,6.0,F,Ersan,Ilyasova,Milwaukee Bucks
+210,6.0,F,Joe,Ingles,Utah Jazz
+211,6.0,F,Brandon,Ingram,New Orleans Pelicans
+212,6.0,G,Kyrie,Irving,Brooklyn Nets
+213,6.0,F,Jonathan,Isaac,Orlando Magic
+214,6.0,F,Wes,Iwundu,Orlando Magic
+215,6.0,F-C,Jaren,Jackson Jr.,Memphis Grizzlies
+216,6.0,G,Frank,Jackson,New Orleans Pelicans
+217,6.0,F,Josh,Jackson,Memphis Grizzlies
+218,6.0,F,Justin,Jackson,Dallas Mavericks
+219,6.0,G,Reggie,Jackson,LA Clippers
+220,6.0,F,LeBron,James,Los Angeles Lakers
+221,6.0,F,Amile,Jefferson,Orlando Magic
+222,6.0,F,Jonas,Jerebko,Golden State Warriors
+223,6.0,F,Alize,Johnson,Indiana Pacers
+224,6.0,C-F,Amir,Johnson,Philadelphia 76ers
+225,6.0,F,James,Johnson,Minnesota Timberwolves
+226,6.0,F,Stanley,Johnson,Toronto Raptors
+227,6.0,G,Tyler,Johnson,Phoenix Suns
+228,6.0,F-G,Wesley,Johnson,Washington Wizards
+229,7.0,C,Nikola,Jokic,Denver Nuggets
+230,6.0,F-G,Derrick,Jones Jr.,Miami Heat
+231,7.0,C,Damian,Jones,Atlanta Hawks
+232,6.0,G,Tyus,Jones,Memphis Grizzlies
+233,6.0,C,DeAndre,Jordan,Brooklyn Nets
+234,6.0,G,Cory,Joseph,Sacramento Kings
+235,7.0,F-C,Frank,Kaminsky,Phoenix Suns
+236,6.0,G,Luke,Kennard,Detroit Pistons
+237,6.0,F,Michael,Kidd-Gilchrist,Dallas Mavericks
+238,6.0,F,George,King,Phoenix Suns
+239,6.0,F,Maxi,Kleber,Dallas Mavericks
+240,6.0,G,Brandon,Knight,Detroit Pistons
+241,6.0,F,Kevin,Knox,New York Knicks
+242,6.0,G-F,Furkan,Korkmaz,Philadelphia 76ers
+243,7.0,F-C,Luke,Kornet,Chicago Bulls
+244,6.0,G-F,Kyle,Korver,Milwaukee Bucks
+245,7.0,C,Kosta,Koufos,Sacramento Kings
+246,6.0,F,Rodions,Kurucs,Brooklyn Nets
+247,6.0,F,Kyle,Kuzma,Los Angeles Lakers
+248,6.0,F,Skal,Labissiere,Atlanta Hawks
+249,6.0,G,Jeremy,Lamb,Indiana Pacers
+250,6.0,G,Zach,LaVine,Chicago Bulls
+251,6.0,F,Jake,Layman,Minnesota Timberwolves
+252,6.0,F,TJ,Leaf,Indiana Pacers
+253,6.0,G,Courtney,Lee,Dallas Mavericks
+254,6.0,G,Damion,Lee,Golden State Warriors
+255,7.0,C,Alex,Len,Sacramento Kings
+256,6.0,F,Kawhi,Leonard,LA Clippers
+257,7.0,F-C,Meyers,Leonard,Miami Heat
+258,6.0,F,Jon,Leuer,Detroit Pistons
+259,6.0,G,Caris,LeVert,Brooklyn Nets
+260,6.0,G,Damian,Lillard,Portland Trail Blazers
+261,6.0,G,Jeremy,Lin,Toronto Raptors
+262,6.0,G,Shaun,Livingston,Golden State Warriors
+263,6.0,F,Kevon,Looney,Golden State Warriors
+264,7.0,C,Brook,Lopez,Milwaukee Bucks
+265,7.0,C,Robin,Lopez,Milwaukee Bucks
+266,6.0,F-C,Kevin,Love,Cleveland Cavaliers
+267,6.0,G,Kyle,Lowry,Toronto Raptors
+268,6.0,G,Jordan,Loyd,Toronto Raptors
+269,6.0,G-F,Timothe,Luwawu-Cabarrot,Brooklyn Nets
+270,6.0,F,Tyler,Lydon,Sacramento Kings
+271,6.0,F,Trey,Lyles,San Antonio Spurs
+272,6.0,G,Daryl,Macon,Miami Heat
+273,6.0,G,J.P.,Macura,Cleveland Cavaliers
+274,6.0,C,Ian,Mahinmi,Washington Wizards
+275,7.0,F,Thon,Maker,Detroit Pistons
+276,7.0,C,Boban,Marjanovic,Dallas Mavericks
+277,7.0,F,Lauri,Markkanen,Chicago Bulls
+278,6.0,F,Jarell,Martin,Cleveland Cavaliers
+279,5.0,G,Frank,Mason,Milwaukee Bucks
+280,6.0,F,Yante,Maten,Boston Celtics
+281,6.0,F,Luc,Mbah a Moute,LA Clippers
+282,6.0,G,CJ,McCollum,Portland Trail Blazers
+283,6.0,G,T.J.,McConnell,Indiana Pacers
+284,6.0,F,Doug,McDermott,Indiana Pacers
+285,7.0,C,JaVale,McGee,Los Angeles Lakers
+286,6.0,F-G,Rodney,McGruder,LA Clippers
+287,6.0,F,Alfonzo,McKinnie,Cleveland Cavaliers
+288,6.0,G,Jordan,McRae,Detroit Pistons
+289,6.0,G,De'Anthony,Melton,Memphis Grizzlies
+290,6.0,F,Chimezie,Metu,San Antonio Spurs
+291,6.0,F,Khris,Middleton,Milwaukee Bucks
+292,6.0,F-G,CJ,Miles,Washington Wizards
+293,6.0,F,Darius,Miller,New Orleans Pelicans
+294,6.0,F,Paul,Millsap,Denver Nuggets
+295,6.0,G,Patty,Mills,San Antonio Spurs
+296,6.0,G,Shake,Milton,Philadelphia 76ers
+297,6.0,F,Nikola,Mirotic,Milwaukee Bucks
+298,6.0,G,Donovan,Mitchell,Utah Jazz
+299,6.0,G,Naz,Mitrou-Long,Indiana Pacers
+300,6.0,G,Malik,Monk,Charlotte Hornets
+301,6.0,G,E'Twaun,Moore,New Orleans Pelicans
+302,6.0,G,Jaylen,Morris,Milwaukee Bucks
+303,6.0,F,Marcus,Morris,LA Clippers
+304,6.0,G,Monte,Morris,Denver Nuggets
+305,6.0,F,Johnathan,Motley,LA Clippers
+306,7.0,C,Timofey,Mozgov,Orlando Magic
+307,6.0,G,Emmanuel,Mudiay,Utah Jazz
+308,6.0,G,Dejounte,Murray,San Antonio Spurs
+309,6.0,G,Jamal,Murray,Denver Nuggets
+310,6.0,G-F,Dzanan,Musa,Brooklyn Nets
+311,6.0,F-C,Mike,Muscala,Oklahoma City Thunder
+312,6.0,G,Svi,Mykhailiuk,Detroit Pistons
+313,6.0,F,Abdel,Nader,Oklahoma City Thunder
+314,6.0,F,Larry,Nance Jr.,Cleveland Cavaliers
+315,6.0,G,Shabazz,Napier,Washington Wizards
+316,6.0,C-F,Nene,,Atlanta Hawks
+317,6.0,G,Raul,Neto,Philadelphia 76ers
+318,6.0,F,Georges,Niang,Utah Jazz
+319,6.0,F-C,Nerlens,Noel,Oklahoma City Thunder
+320,7.0,F,Dirk,Nowitzki,Dallas Mavericks
+321,6.0,G,Frank,Ntilikina,New York Knicks
+322,7.0,C,Jusuf,Nurkic,Portland Trail Blazers
+323,6.0,G,David,Nwaba,Brooklyn Nets
+324,6.0,F,Royce,O'Neale,Utah Jazz
+325,6.0,C,Kyle,O'Quinn,Philadelphia 76ers
+326,6.0,F,Semi,Ojeleye,Boston Celtics
+327,6.0,C,Jahlil,Okafor,New Orleans Pelicans
+328,6.0,G,Elie,Okobo,Phoenix Suns
+329,6.0,G,Josh,Okogie,Minnesota Timberwolves
+330,6.0,G,Victor,Oladipo,Indiana Pacers
+331,7.0,F,Kelly,Olynyk,Miami Heat
+332,6.0,F,Cedi,Osman,Cleveland Cavaliers
+333,6.0,F,Kelly,Oubre Jr.,Phoenix Suns
+334,6.0,C,Zaza,Pachulia,Detroit Pistons
+335,6.0,F,Jabari,Parker,Sacramento Kings
+336,6.0,G,Tony,Parker,Charlotte Hornets
+337,6.0,F,Chandler,Parsons,Atlanta Hawks
+338,6.0,F,Patrick,Patterson,LA Clippers
+339,7.0,C,Justin,Patton,Dallas Mavericks
+340,6.0,G,Chris,Paul,Oklahoma City Thunder
+341,6.0,G,Elfrid,Payton,New York Knicks
+342,6.0,G-F,Theo,Pinson,Brooklyn Nets
+343,6.0,F-C,Mason,Plumlee,Denver Nuggets
+344,6.0,C,Miles,Plumlee,Memphis Grizzlies
+345,7.0,C,Jakob,Poeltl,San Antonio Spurs
+346,6.0,F,Quincy,Pondexter,San Antonio Spurs
+347,6.0,F,Michael,Porter Jr.,Denver Nuggets
+348,6.0,F,Otto,Porter Jr.,Chicago Bulls
+349,6.0,F,Bobby,Portis,New York Knicks
+350,7.0,F-C,Kristaps,Porzingis,Dallas Mavericks
+351,6.0,F-C,Dwight,Powell,Dallas Mavericks
+352,6.0,F-G,Norman,Powell,Toronto Raptors
+353,6.0,F,Alex,Poythress,Atlanta Hawks
+354,6.0,F,Taurean,Prince,Brooklyn Nets
+355,6.0,F,Ivan,Rabb,New York Knicks
+356,6.0,G,Chasson,Randle,Golden State Warriors
+357,6.0,F,Julius,Randle,New York Knicks
+358,6.0,G,JJ,Redick,New Orleans Pelicans
+359,6.0,G,Davon,Reed,Miami Heat
+360,6.0,G-F,Josh,Richardson,Philadelphia 76ers
+361,6.0,G,Austin,Rivers,Houston Rockets
+362,6.0,G-F,Andre,Roberson,Oklahoma City Thunder
+363,6.0,G-F,Glenn,Robinson III,Philadelphia 76ers
+364,6.0,F,Devin,Robinson,Toronto Raptors
+365,6.0,F,Duncan,Robinson,Miami Heat
+366,6.0,G,Jerome,Robinson,Washington Wizards
+367,7.0,C,Mitchell,Robinson,New York Knicks
+368,6.0,G,Rajon,Rondo,Los Angeles Lakers
+369,6.0,G,Derrick,Rose,Detroit Pistons
+370,6.0,G-F,Terrence,Ross,Orlando Magic
+371,6.0,G,Terry,Rozier,Charlotte Hornets
+372,6.0,G,Ricky,Rubio,Phoenix Suns
+373,6.0,G,D'Angelo,Russell,Minnesota Timberwolves
+374,6.0,F,Domantas,Sabonis,Indiana Pacers
+375,6.0,F,Dario,Saric,Phoenix Suns
+376,6.0,G-F,Tomas,Satoransky,Chicago Bulls
+377,6.0,G,Dennis,Schroder,Oklahoma City Thunder
+378,6.0,F,Mike,Scott,Philadelphia 76ers
+379,6.0,F,Thabo,Sefolosha,Houston Rockets
+380,6.0,G-F,Wayne,Selden,Chicago Bulls
+381,6.0,G,Collin,Sexton,Cleveland Cavaliers
+382,6.0,G,Landry,Shamet,LA Clippers
+383,6.0,G,Iman,Shumpert,Brooklyn Nets
+384,6.0,F,Pascal,Siakam,Toronto Raptors
+385,6.0,G-F,Ben,Simmons,Philadelphia 76ers
+386,6.0,F,Jonathon,Simmons,Philadelphia 76ers
+387,6.0,G,Anfernee,Simons,Portland Trail Blazers
+388,6.0,G,Marcus,Smart,Boston Celtics
+389,6.0,G,Dennis,Smith Jr.,New York Knicks
+390,6.0,G,Ish,Smith,Washington Wizards
+391,7.0,F-C,Jason,Smith,New Orleans Pelicans
+392,6.0,G-F,JR,Smith,Cleveland Cavaliers
+393,6.0,G,Zhaire,Smith,Philadelphia 76ers
+394,6.0,G,Tony,Snell,Detroit Pistons
+395,6.0,F,Omari,Spellman,Minnesota Timberwolves
+396,6.0,G,Nik,Stauskas,Cleveland Cavaliers
+397,6.0,G,Lance,Stephenson,Los Angeles Lakers
+398,6.0,G,Edmond,Sumner,Indiana Pacers
+399,6.0,F,Caleb,Swanigan,Portland Trail Blazers
+400,6.0,F,Jayson,Tatum,Boston Celtics
+401,6.0,G,Jeff,Teague,Atlanta Hawks
+402,6.0,G-F,Garrett,Temple,Brooklyn Nets
+403,6.0,G,Jared,Terrell,Minnesota Timberwolves
+404,6.0,F,Daniel,Theis,Boston Celtics
+405,5.0,G,Isaiah,Thomas,LA Clippers
+406,6.0,G,Khyri,Thomas,Detroit Pistons
+407,6.0,F,Lance,Thomas,Brooklyn Nets
+408,6.0,G,Klay,Thompson,Golden State Warriors
+409,6.0,C-F,Tristan,Thompson,Cleveland Cavaliers
+410,6.0,G,Sindarius,Thornwell,Cleveland Cavaliers
+411,6.0,F,Anthony,Tolliver,Memphis Grizzlies
+412,7.0,C,Karl-Anthony,Towns,Minnesota Timberwolves
+413,6.0,G,Allonzo,Trier,New York Knicks
+414,6.0,F,PJ,Tucker,Houston Rockets
+415,6.0,G-F,Evan,Turner,Minnesota Timberwolves
+416,6.0,C-F,Myles,Turner,Indiana Pacers
+417,6.0,C-F,Ekpe,Udoh,Utah Jazz
+418,7.0,C,Jonas,Valanciunas,Memphis Grizzlies
+419,6.0,G,Denzel,Valentine,Chicago Bulls
+420,6.0,F,Jarred,Vanderbilt,Minnesota Timberwolves
+421,6.0,G,Fred,VanVleet,Toronto Raptors
+422,6.0,F,Noah,Vonleh,Denver Nuggets
+423,7.0,C,Nikola,Vucevic,Orlando Magic
+424,6.0,G,Dwyane,Wade,Miami Heat
+425,6.0,C,Moritz,Wagner,Washington Wizards
+426,6.0,G,Dion,Waiters,Los Angeles Lakers
+427,6.0,G,Lonnie,Walker IV,San Antonio Spurs
+428,6.0,G,Kemba,Walker,Boston Celtics
+429,6.0,G,Tyrone,Wallace,Atlanta Hawks
+430,6.0,G,John,Wall,Washington Wizards
+431,6.0,G,Brad,Wanamaker,Boston Celtics
+432,6.0,F,T.J.,Warren,Indiana Pacers
+433,6.0,G,Yuta,Watanabe,Memphis Grizzlies
+434,7.0,C,Thomas,Welsh,Charlotte Hornets
+435,6.0,G,Russell,Westbrook,Houston Rockets
+436,6.0,G,Derrick,White,San Antonio Spurs
+437,7.0,C,Hassan,Whiteside,Portland Trail Blazers
+438,6.0,F-G,Andrew,Wiggins,Golden State Warriors
+439,6.0,C-F,Robert,Williams III,Boston Celtics
+440,6.0,F-C,Alan,Williams,Brooklyn Nets
+441,6.0,G,C.J.,Williams,Brooklyn Nets
+442,6.0,F,Johnathan,Williams,Washington Wizards
+443,6.0,G-F,Kenrich,Williams,New Orleans Pelicans
+444,6.0,G,Lou,Williams,LA Clippers
+445,6.0,F,Marvin,Williams,Milwaukee Bucks
+446,6.0,F,Troy,Williams,Sacramento Kings
+447,6.0,F,D.J.,Wilson,Milwaukee Bucks
+448,6.0,F,Justise,Winslow,Memphis Grizzlies
+449,6.0,F,Christian,Wood,Detroit Pistons
+450,6.0,G,Delon,Wright,Dallas Mavericks
+451,6.0,F,Guerschon,Yabusele,Boston Celtics
+452,6.0,F,Thaddeus,Young,Chicago Bulls
+453,6.0,G,Trae,Young,Atlanta Hawks
